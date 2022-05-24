@@ -1,7 +1,7 @@
 from datetime import datetime as dt
 import os, random
 
-textIntent = ["Hi", "Hello", "Hey","BC", "MC"]
+textIntent = ["Hi", "Hello", "Hey"]
 dateIntent = ["date", "Hello date"]
 timeIntent = ["time", "Hello time"]
 musicIntent = ["music", "song", "play song"]
